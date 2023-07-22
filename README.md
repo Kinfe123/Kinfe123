@@ -20,7 +20,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python , Nodejs, Express, Go , Java , c++ <br /> Graphql, Mongodb, Javascript . <br /> ReactJS , NextJS
+- 🛠 &nbsp; I’m currently working with Python , Nodejs, Express, Go , Java , c++ . Graphql, Mongodb, Javascript ,  ReactJS , NextJS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kinfe123).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Kinfe123/Kinfe123/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
