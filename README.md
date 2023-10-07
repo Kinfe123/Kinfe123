@@ -19,7 +19,8 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with in both Frontend and Backend in Monorepo or neither way
+- 🛠 &nbsp; I’m currently working with in both Frontend and Backend in Monorepo or either way
+- 🛠 &nbsp; I love OSS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kinfe123).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Kinfe123/Kinfe123/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: kinfetare83@gmail.com
