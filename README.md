@@ -15,7 +15,7 @@ Joined Github **5** years ago.
 Like My Work?
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Kinfe123/Kinfe123/master/gifs/coder.gif" />
+
 
 ### Talking about Personal Stuffs:
 
