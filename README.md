@@ -1,4 +1,4 @@
-## Hey 👋, I'm [KinfeMichael Tariku!](https://github.com/Kinfe123/)
+## Hey 👋, I'm [KinfeMichael Tariku!](https://kinfish-owns-computer.vercel.app)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kinfe-michael-tariku-1497b3201/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kinfish-owns-computer.vercel.app//)
@@ -11,8 +11,6 @@ I'm KINFEMICHAEL TARIKU - KiNFiSH , a guy well know by his ability to influecing
 
 Joined Github **5** years ago.
 
-
-Like My Work?
 
 
 
@@ -27,12 +25,3 @@ Like My Work?
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Kinfe123/Kinfe123/blob/master/resume.pdf).
 
 
-
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
