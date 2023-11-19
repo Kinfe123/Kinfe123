@@ -13,6 +13,6 @@ I'm KINFEMICHAEL TARIKU - KiNFiSH , a guy well know by his ability to influecing
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Kinfe123).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Kinfe123/Kinfe123/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: kinfetare83@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Kinfe123/Kinfe123/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Kinfe123/Kinfe123/blob/master/kinfish-resume.pdf).
 
 
