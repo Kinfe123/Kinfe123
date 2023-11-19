@@ -7,9 +7,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 I'm KINFEMICHAEL TARIKU - KiNFiSH , a guy well know by his ability to influecing and developing as well automating a project that can solve real world problem
-
-
-
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with in both Frontend and Backend in Monorepo or either way
 - 🛠 &nbsp; I love OSS
