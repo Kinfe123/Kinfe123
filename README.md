@@ -9,7 +9,6 @@ I'm KINFEMICHAEL TARIKU - KiNFiSH , a guy well know by his ability to influecing
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with in both Frontend and Backend in Monorepo or either way
 - 🛠 &nbsp; I love OSS
-- 👨🏻‍💻
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Kinfe123/Kinfe123/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: kinfetare83@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Kinfe123/Kinfe123/blob/master/kinfish-resume.pdf).
