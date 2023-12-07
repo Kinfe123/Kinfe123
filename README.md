@@ -1,8 +1,8 @@
 ## Hey 👋, I'm [KinfeMichael Tariku!](https://kinfish-owns-computer.vercel.app)
 
-[LinkedIn](https://www.linkedin.com/in/kinfe-michael-tariku-1497b3201/)
-[Website](https://kinfish-owns-computer.vercel.app//)
-[Twitter](https://twitter.com/kinfishtech)
+[LinkedIn](https://www.linkedin.com/in/kinfe-michael-tariku-1497b3201/) |
+[Website](https://kinfish-owns-computer.vercel.app//) |
+[Twitter](https://twitter.com/kinfishtech) |
 [Telegram](https://t.me/Kinfe123)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 I'm KINFEMICHAEL TARIKU - KiNFiSH , a guy well know by his ability to influecing and developing as well automating a project that can solve real world problem
