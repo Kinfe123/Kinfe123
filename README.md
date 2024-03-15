@@ -4,7 +4,7 @@
 [Website](https://kinfish-owns-computer.vercel.app//) |
 [Twitter](https://twitter.com/kinfishT) |
 [Telegram](https://t.me/Kinfe123)
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 I'm KINFEMICHAEL TARIKU - Colocating my mind with keyboard using NVim
 - 🛠 &nbsp; I’m currently working with in both Frontend and Backend in Monorepo or either way
 - 🛠 &nbsp; I love OSS
