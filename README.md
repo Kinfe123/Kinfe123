@@ -5,7 +5,7 @@
 [Twitter](https://twitter.com/kinfishT) |
 [Telegram](https://t.me/Kinfe123)
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-I'm KINFEMICHAEL TARIKU - Colocating my mind with keyboard using NVim
+Currently , I am Colocating my mind with keyboard using NVim
 - 🛠 &nbsp; I’m currently working with in both Frontend and Backend in Monorepo or either way
 - 🛠 &nbsp; I love OSS
 - 📫 &nbsp; How to reach me: kinfetare83@gmail.com
