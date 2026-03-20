@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <samp>
     <a href="https://kinfish.dev">website</a> .
     <a href="https://kinfish.dev/articles">blogs</a> .
